@@ -8,8 +8,8 @@
     <style type="text/css">body{margin-left:220px}</style>
     <style type="text/css">body{margin-right:220px}</style>
     <style type="text/css">
-        p.ttt span {
-            font-size:2;
+        .ttt span {
+            font-size:9px;
             color:#4876ff;
         }
     </style>
@@ -75,7 +75,7 @@
 
       <footer>
         <p class="ttt">
-            <span>搜狐好文。</span>
+            <span>在新闻中看到这篇不错的文章，就转过来了。</span>
         </p>
       </footer>
 
