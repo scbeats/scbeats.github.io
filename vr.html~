@@ -10,7 +10,7 @@
         .ttt {
             font-size:9px;
             color:#4b0082;
-            text-indent:200px; 
+            text-indent:150px; 
             font-style:italic;
         }
     </style>
