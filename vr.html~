@@ -9,8 +9,8 @@
     <style type="text/css">body{margin-right:220px}</style>
     <style type="text/css">
         p.ttt span {
-            size:4;
-            color:#ffebcd;
+            size:2;
+            color:#d1d1d1;
         }
     </style>
   </head>
