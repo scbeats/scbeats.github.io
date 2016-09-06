@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <meta charset="UTF-8">
+        <title>暴雪三景</title>
+        <style type="text/css">
+            body{
+                background-color:#ffd39b;
+
+            }
+            .aa{
+                font-size:20px;
+                text-align:center;
+            }
+            .bb{
+                font-size:30px;
+                text-align:center;
+                color:#3a5fcd;
+
+            }
+            
+        </style>
+    </head>
+    <body>
+        <p>
+            
+        </p>
+    </body>
+</html>
